@@ -36,9 +36,9 @@ def on_chat_message(msg):
         first_name = responce['first_name']
         bot.sendChatAction(chat_id, 'typing')
         bot.sendMessage(
-            chat_id, f'<b>Hello {first_name} </b>', parse_mode='html', reply_markup=markup2)
+            chat_id, f'Hello <b>{first_name} </b>', parse_mode='html', reply_markup=markup2)
         bot.sendChatAction(chat_id, 'typing')
-        bot.sendMessage(chat_id, '<b>Welcome to babylon translator chat bot this bot will help you to translate different languges and helps you to explore more and to communicate better</b>',
+        bot.sendMessage(chat_id, 'Welcome to <b>babylon<b> translator chat bot this bot will help you to translate different languges and helps you to explore more and to communicate better.',
                         parse_mode='html', reply_markup=markup)
     elif msg['text'] != '/start':
         message = msg['text'].lower()
