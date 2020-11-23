@@ -84,7 +84,7 @@ def on_chat_message(msg):
 
 
 # get token from command-line
-TOKEN = '1239352593:AAHOZkDwqlkgeyWAb6kjOPxlphQgWKGaJsw'
+TOKEN = 'YOUR-BOT-TOKEN'
 
 bot = telepot.Bot(TOKEN)
 answerer = telepot.helper.Answerer(bot)
