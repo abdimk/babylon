@@ -1,0 +1,10 @@
+Read this before of doing any thing 
+
+1,create pythonanywhere account
+2,then save the Babylon.py file the rest of them are necessary if you want to add more feature like buttons best on src language 
+3,create a bot from @botfather telegram then change the token from the file 
+4,install some libraries like gTTS, telepot, Googletrans,requests
+5,upload the bot's file on python anywhere 
+6,run it 
+
+
