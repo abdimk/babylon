@@ -1,6 +1,6 @@
 #class that takes emoji as inpute and gives translation key as output
 '''
-if the user enters that emoji you can change the destnation(dest) of the Translator class as well as the sorce(src) by simply importing the class and creating an object like
+if the user enters that emoji you can change the destnation(dest) of the Translator class as well as the source(src) by simply importing the class and creating an object like
 import FlagTrans
 
 '''
