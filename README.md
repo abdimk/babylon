@@ -8,4 +8,4 @@ This telegram bot will help you to translate languages and to detect any languag
  pip3 install --user gtts,
  pip3 install --user googletrans on bash  console
  
- 3, adding '--user' in the command gives the permison to save the modules files in the server data balse but when you run telepot codes you need proxy to connect to the telegram server so you have to use proxy config every time 
+ 3, adding '--user' in the command gives the permison to save the modules files in the server data base but when you run telepot codes you need proxy to connect to the telegram server so you have to use proxy config every time 
